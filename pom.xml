@@ -15,7 +15,7 @@
         <scala.major-version>2.13</scala.major-version>
         <scala.version>${scala.major-version}.6</scala.version>
         <junit-jupiter.version>5.7.0</junit-jupiter.version>
-        <alchim31.scala.plugin>4.5.3</alchim31.scala.plugin>
+        <alchim31.scala.plugin>4.5.6</alchim31.scala.plugin>
     </properties>
     <dependencies>
         <dependency>
