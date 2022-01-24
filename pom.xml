@@ -13,7 +13,7 @@
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>
         <scala.major-version>2.13</scala.major-version>
-        <scala.version>${scala.major-version}.6</scala.version>
+        <scala.version>${scala.major-version}.8</scala.version>
         <junit-jupiter.version>5.7.0</junit-jupiter.version>
         <alchim31.scala.plugin>4.5.6</alchim31.scala.plugin>
     </properties>
